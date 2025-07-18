@@ -1,5 +1,10 @@
 # 🚀 Dushyanth Bandaru - Cloud & DevOps Portfolio
 
+
+<div align="center">
+  <img src="public/pf_ss.png" alt="Portfolio Screenshot" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
+</div>
+
 <div align="center">
 
 ![Portfolio Banner](https://img.shields.io/badge/Next.js-14.2.28-black?style=for-the-badge&logo=next.js)
